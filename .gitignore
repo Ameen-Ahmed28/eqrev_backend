@@ -37,3 +37,8 @@ coverage/
 
 # Misc
 *.tgz
+# Ignore service account keys
+keyfile.json
+*.key.json
+*.pem
+*.p12
